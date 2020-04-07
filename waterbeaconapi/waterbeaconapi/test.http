@@ -1,0 +1,7 @@
+@apiKey = Nlf7Mxi5GkXMLQo6LQ0/eArxeABYC4qpvP428DYtKVaFPRNIi8/xQA==
+@fipscode = MN
+
+GET https://waterbeacon-api.azurewebsites.net/api/waterbeaconapi?code={{apiKey}}&fipscode={{fipscode}}
+
+###
+GET https://waterbeacon-api.azurewebsites.net/api/waterbeaconapi?code={{apiKey}}
